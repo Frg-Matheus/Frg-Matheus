@@ -2,6 +2,7 @@
 #### 👨🏽‍💻 Developer FullStack 🖖🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-383803279/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ![Frg-Matheus](https://github-readme-stats.vercel.app/api?username=Frg-Matheus&show_icons=true&theme=dracula)
 
@@ -16,6 +17,3 @@
 </div></br>
 
 Apaixonado por tecnologia! Sempre buscando evolução e novas habilidades. Amante dos games nas horas vagas.
-
-## Email para contato:
-- [frg1.matheus@gmail.com]()
