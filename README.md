@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Matheus Ferreira 👋🏻
 #### 👨🏽‍💻 Developer FullStack 🖖🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-ferreira-383803279)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-ferreira-383803279
+
+)
 
 ![Frg-Matheus](https://github-readme-stats.vercel.app/api?username=Frg-Matheus&show_icons=true&theme=dracula)
 
