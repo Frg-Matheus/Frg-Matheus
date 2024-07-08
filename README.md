@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/> 
 
 ### Olá! Eu sou o Matheus Ferreira 👋🏻
-#### 👨🏽‍💻 Developer FullStack 🖖🏻
+#### 👨🏽‍💻 Developer Web 🖖🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-figueiredo-383803279/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
