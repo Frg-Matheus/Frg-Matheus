@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Matheus Ferreira 👋🏻
 #### 👨🏽‍💻 Developer Web 🖖🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-figueiredo-383803279/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-figueiredo-383803279)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ## Tecnologias que eu utilizo no cotidiano:
